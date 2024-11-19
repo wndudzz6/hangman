@@ -1,0 +1,10 @@
+user01 0
+user02 0
+user03 50
+user04 70
+user05 130
+user06 0
+user07 0
+user08 50
+user09 45
+user10 25
